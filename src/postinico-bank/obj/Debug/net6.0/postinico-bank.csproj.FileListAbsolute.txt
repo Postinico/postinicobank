@@ -1,0 +1,15 @@
+C:\DevOps-pessoal\postinicobank\src\postinico-bank\bin\Debug\net6.0\postinico-bank.exe
+C:\DevOps-pessoal\postinicobank\src\postinico-bank\bin\Debug\net6.0\postinico-bank.deps.json
+C:\DevOps-pessoal\postinicobank\src\postinico-bank\bin\Debug\net6.0\postinico-bank.runtimeconfig.json
+C:\DevOps-pessoal\postinicobank\src\postinico-bank\bin\Debug\net6.0\postinico-bank.dll
+C:\DevOps-pessoal\postinicobank\src\postinico-bank\bin\Debug\net6.0\postinico-bank.pdb
+C:\DevOps-pessoal\postinicobank\src\postinico-bank\obj\Debug\net6.0\postinico-bank.csproj.AssemblyReference.cache
+C:\DevOps-pessoal\postinicobank\src\postinico-bank\obj\Debug\net6.0\postinico-bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevOps-pessoal\postinicobank\src\postinico-bank\obj\Debug\net6.0\postinico-bank.AssemblyInfoInputs.cache
+C:\DevOps-pessoal\postinicobank\src\postinico-bank\obj\Debug\net6.0\postinico-bank.AssemblyInfo.cs
+C:\DevOps-pessoal\postinicobank\src\postinico-bank\obj\Debug\net6.0\postinico-bank.csproj.CoreCompileInputs.cache
+C:\DevOps-pessoal\postinicobank\src\postinico-bank\obj\Debug\net6.0\postinico-bank.dll
+C:\DevOps-pessoal\postinicobank\src\postinico-bank\obj\Debug\net6.0\refint\postinico-bank.dll
+C:\DevOps-pessoal\postinicobank\src\postinico-bank\obj\Debug\net6.0\postinico-bank.pdb
+C:\DevOps-pessoal\postinicobank\src\postinico-bank\obj\Debug\net6.0\postinico-bank.genruntimeconfig.cache
+C:\DevOps-pessoal\postinicobank\src\postinico-bank\obj\Debug\net6.0\ref\postinico-bank.dll
